@@ -1,0 +1,58 @@
+
+*{
+    margin: 0px;
+}
+
+header {
+    color: black;
+    background-color: rgb(156, 130, 182);
+}
+
+nav{
+    background: seagreen;
+    height: 30px;
+}
+
+nav ul li {
+    list-style: none;
+    float:left;
+    line-height: 20px;
+    margin:10px; 
+    font-weight: bold;
+}
+
+section {
+    float: left;
+    width:70%;
+    min-height: 400px;
+    background: rgb(155, 162, 175);
+}
+
+aside {
+    float: left;
+    width: 30%;
+    min-width: 400px;
+    background: cornflowerblue;
+}
+
+section article{
+    float: left,
+}
+.clearfix{
+    clear:both
+}
+
+#mi-input{
+    color:red
+}
+
+#mi-input::placeholder{
+    color:red
+}
+
+footer {
+    background: tomato;
+
+
+}
+

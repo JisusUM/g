@@ -1,0 +1,23 @@
+#index configuracion estandar en todos los server como pagina principal o archivo
+
+#UTILIZAMOS LIVE SERVER COMO LOCAL HOSTING
+
+#Elementos anidados llamdas etiquetas
+
+#Siempre cerrar las etiquetas
+<etiqueta class ="titulo_general" id="" alt="la playa">
+    Contenido
+    <sub-etiquetas>
+        Otro contenido
+    </sub-etiquetas>
+</etiqueta>
+<br>
+
+#<!DOCTYPE html> indica que es html 5
+
+#Etiquetas de estructura 
+head y body 
+
+#h1 etiqueta importante solo deberia haber una en la pagina para google analice d que es la pagina
+
+<!--value="Bachi" readonly disabled-->
